@@ -1,0 +1,56 @@
+[
+  {
+    "product_id": "ELEC001",
+    "name": "Samsung 4K Smart TV",
+    "category": "Electronics",
+    "price": 45000,
+    "brand": "Samsung",
+    "specs": {
+      "screen_size": "55 inch",
+      "resolution": "3840x2160",
+      "voltage": "220V",
+      "warranty_years": 2,
+      "smart_features": ["WiFi", "Bluetooth", "Voice Control"]
+    },
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "CLTH001",
+    "name": "Men's Slim Fit Jeans",
+    "category": "Clothing",
+    "price": 1299,
+    "brand": "Levi's",
+    "attributes": {
+      "size": ["28", "30", "32", "34"],
+      "color": ["Blue", "Black", "Grey"],
+      "material": "98% Cotton, 2% Elastane",
+      "gender": "Male",
+      "care_instructions": ["Machine wash cold", "Do not bleach", "Tumble dry low"]
+    },
+    "in_stock": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "GROC001",
+    "name": "Organic Whole Milk",
+    "category": "Groceries",
+    "price": 89,
+    "brand": "Amul",
+    "details": {
+      "weight": "1 Litre",
+      "expiry_date": "2024-12-15",
+      "manufactured_date": "2024-12-01",
+      "nutritional_info": {
+        "calories_per_100ml": 61,
+        "protein_g": 3.2,
+        "fat_g": 3.5,
+        "carbs_g": 4.7
+      },
+      "allergens": ["Milk"],
+      "storage": "Refrigerate below 4°C"
+    },
+    "in_stock": true,
+    "rating": 4.7
+  }
+]
